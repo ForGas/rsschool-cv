@@ -1,1 +1,1 @@
-https://ForGas.github.io/rsschool-cv/
+https://ForGas.github.io/rsschool-cv/cv
