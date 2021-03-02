@@ -1,0 +1,29 @@
+#head {
+    font: bold 35px Arial, sans-serif;
+    line-height: 0px;
+    margin: 40px 0px 30px 700px;
+}
+.cv {
+    margin: 10px 350px 50px 200px;
+    padding: 20px 0px 20px 100px;
+    border: solid 3px black;
+    line-height: 50px;
+    font: bold 24px Arial, sans-serif;
+    line-height: 50px;
+}
+.normal_text {
+    font: normal 24px Arial, sans-serif;
+    line-height: 40px;
+}
+
+.email {
+    font: normal 24px Arial, sans-serif;
+    text-decoration: underline;
+    color: #b8dedd;
+}
+
+#photo {
+    position: absolute;
+    top: 85px;
+    left: 1000px;
+}
